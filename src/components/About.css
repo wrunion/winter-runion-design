@@ -100,7 +100,6 @@ a, a:visited, a:hover, a:active {
   /* color: darkgrey; */
 }
 
-/* a visited {
-  text-decoration: none;
-  cursor: pointer;
-} */
+.links {
+  font-weight: bold;
+}
