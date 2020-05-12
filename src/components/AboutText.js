@@ -3,7 +3,9 @@ import React from 'react';
 function AboutText() {
   return (
     <div className="AboutText">
-      <p>Test test</p>
+      <h1>Winter A. Runion</h1>
+      <h2 className="subheader">Web Dev & Software Engineering</h2>
+      <h4>Portland, Oregon</h4>
     </div>
   )
 }
