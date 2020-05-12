@@ -1,5 +1,9 @@
 ## Portfolio Placeholder
-###### Placeholder page for contact info while full project porfolio is being developed. _Created 05.12.2020 by Winter Runion_
+Placeholder page for contact info while full project porfolio is being developed. 
+
+_Created 05.12.2020 by Winter Runion_
+
+See it [here](https://wrunion.github.io/winter-runion-design/).
 
 ### Contact
 If you have questions or want to hire me, you can get in touch at winter@winterrunion.com. 
