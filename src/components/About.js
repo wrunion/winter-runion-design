@@ -16,7 +16,7 @@ function About() {
         <p className="location">Portland, Oregon</p>
         {/* <div><button type="button">Github</button> <button type="button">LinkedIn</button></div> */}
         <p className="links"><a href="https://github.com/wrunion" target="_blank" rel="noopener noreferrer">Github</a> | <a href="https://www.linkedin.com/in/wrunion/" target="_blank" rel="noopener noreferrer">LinkedIn</a></p>
-        <p id="email"><em><a href="mailto:winter@winterrunion.com?subject=Web Development"> winter@winterrunion.com</a></em></p>
+        <p>winter@winterrunion.com</p>
       </div>
     </div>
   );
