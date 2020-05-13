@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/winter-runion-design/static/css/main.32b21b4c.chunk.css",
-    "main.js": "/winter-runion-design/static/js/main.b4a4b26c.chunk.js",
-    "main.js.map": "/winter-runion-design/static/js/main.b4a4b26c.chunk.js.map",
+    "main.css": "/winter-runion-design/static/css/main.87f9c835.chunk.css",
+    "main.js": "/winter-runion-design/static/js/main.9a6ee373.chunk.js",
+    "main.js.map": "/winter-runion-design/static/js/main.9a6ee373.chunk.js.map",
     "runtime-main.js": "/winter-runion-design/static/js/runtime-main.3832d7de.js",
     "runtime-main.js.map": "/winter-runion-design/static/js/runtime-main.3832d7de.js.map",
     "static/js/2.3f151350.chunk.js": "/winter-runion-design/static/js/2.3f151350.chunk.js",
     "static/js/2.3f151350.chunk.js.map": "/winter-runion-design/static/js/2.3f151350.chunk.js.map",
     "index.html": "/winter-runion-design/index.html",
-    "precache-manifest.9233ff5a855618230ec4d17215b66606.js": "/winter-runion-design/precache-manifest.9233ff5a855618230ec4d17215b66606.js",
+    "precache-manifest.b42f20e9b4b89333562f607210e1cf2d.js": "/winter-runion-design/precache-manifest.b42f20e9b4b89333562f607210e1cf2d.js",
     "service-worker.js": "/winter-runion-design/service-worker.js",
-    "static/css/main.32b21b4c.chunk.css.map": "/winter-runion-design/static/css/main.32b21b4c.chunk.css.map",
+    "static/css/main.87f9c835.chunk.css.map": "/winter-runion-design/static/css/main.87f9c835.chunk.css.map",
     "static/js/2.3f151350.chunk.js.LICENSE.txt": "/winter-runion-design/static/js/2.3f151350.chunk.js.LICENSE.txt",
     "static/media/meRound500.png": "/winter-runion-design/static/media/meRound500.e11d3859.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3832d7de.js",
     "static/js/2.3f151350.chunk.js",
-    "static/css/main.32b21b4c.chunk.css",
-    "static/js/main.b4a4b26c.chunk.js"
+    "static/css/main.87f9c835.chunk.css",
+    "static/js/main.9a6ee373.chunk.js"
   ]
 }
