@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/winter-runion-design/precache-manifest.8ec105c2ed41e69cc4b71d60bdeecd8d.js"
+  "/winter-runion-design/precache-manifest.7443b0bb7ffb200957ac4686eef67a29.js"
 );
 
 self.addEventListener('message', (event) => {

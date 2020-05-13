@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3eb4a20966744633317a81e1594c4b9c",
+    "revision": "48af01dd72a9445ea13f32a94dc04876",
     "url": "/winter-runion-design/index.html"
   },
   {
-    "revision": "b4e099076a6176f5c2fd",
-    "url": "/winter-runion-design/static/css/main.b4fbbfb9.chunk.css"
+    "revision": "3d17ff3c906eb349a5e9",
+    "url": "/winter-runion-design/static/css/main.26823a0e.chunk.css"
   },
   {
     "revision": "571cc965e10b6eefa155",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/winter-runion-design/static/js/2.3f151350.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b4e099076a6176f5c2fd",
+    "revision": "3d17ff3c906eb349a5e9",
     "url": "/winter-runion-design/static/js/main.1561e36b.chunk.js"
   },
   {
